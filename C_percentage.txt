@@ -1,0 +1,227 @@
+ 
+>EVM0003719.1 | Effector probability: 0.827
+C_percentage = 1.2658227848101267%
+>EVM0006750.1 | Effector probability: 0.558
+C_percentage = 0.29940119760479045%
+>EVM0010423.1 | Effector probability: 0.856
+C_percentage = 10.714285714285714%
+>EVM0004146.1 | Effector probability: 0.591
+C_percentage = 1.9900497512437811%
+>EVM0006233.2 | Effector probability: 0.568
+C_percentage = 1.3071895424836601%
+>EVM0006426.1 | Effector probability: 0.571
+C_percentage = 2.3738872403560833%
+>EVM0001612.1 | Effector probability: 0.913
+C_percentage = 14.864864864864865%
+>EVM0006923.1 | Effector probability: 0.857
+C_percentage = 3.932584269662921%
+>EVM0004992.1 | Effector probability: 0.63
+C_percentage = 0.6756756756756757%
+>EVM0001155.1 | Effector probability: 0.901
+C_percentage = 8.333333333333332%
+>EVM0006568.1 | Effector probability: 0.815
+C_percentage = 4.845814977973569%
+>EVM0006088.1 | Effector probability: 0.617
+C_percentage = 1.1299435028248588%
+>EVM0001756.1 | Effector probability: 0.891
+C_percentage = 3.870967741935484%
+>EVM0002063.1 | Effector probability: 0.717
+C_percentage = 2.525252525252525%
+>EVM0008544.1 | Effector probability: 0.745
+C_percentage = 1.3636363636363635%
+>EVM0007777.1 | Effector probability: 0.851
+C_percentage = 0.5102040816326531%
+>EVM0010294.1 | Effector probability: 0.581
+C_percentage = 5.319148936170213%
+>EVM0010679.1 | Effector probability: 0.855
+C_percentage = 0.6666666666666667%
+>EVM0001795.1 | Effector probability: 0.838
+C_percentage = 7.818930041152264%
+>EVM0001281.1 | Effector probability: 0.884
+C_percentage = 4.032258064516129%
+>EVM0007404.1 | Effector probability: 0.564
+C_percentage = 2.1164021164021163%
+>EVM0004360.1 | Effector probability: 0.89
+C_percentage = 1.4084507042253522%
+>EVM0002925.1 | Effector probability: 0.567
+C_percentage = 1.76678445229682%
+>EVM0007735.1 | Effector probability: 0.555
+C_percentage = 1.0752688172043012%
+>EVM0000718.1 | Effector probability: 0.803
+C_percentage = 2.2026431718061676%
+>EVM0010235.1 | Effector probability: 0.908
+C_percentage = 6.535947712418301%
+>EVM0008782.1 | Effector probability: 0.873
+C_percentage = 6.666666666666667%
+>EVM0009751.1 | Effector probability: 0.713
+ 
+>EVM0005212.1 | Effector probability: 0.78
+C_percentage = 0.997506234413965%
+>EVM0005431.1 | Effector probability: 0.599
+C_percentage = 2.0746887966804977%
+>EVM0004521.1 | Effector probability: 0.572
+C_percentage = 1.7699115044247788%
+>EVM0000611.1 | Effector probability: 0.562
+C_percentage = 3.0303030303030303%
+>EVM0005735.1 | Effector probability: 0.562
+C_percentage = 2.9850746268656714%
+>EVM0008527.1 | Effector probability: 0.938
+C_percentage = 6.172839506172839%
+>EVM0001292.1 | Effector probability: 0.56
+C_percentage = 1.824817518248175%
+>EVM0006372.1 | Effector probability: 0.816
+C_percentage = 3.1847133757961785%
+>EVM0006711.1 | Effector probability: 0.667
+C_percentage = 1.532567049808429%
+>EVM0000261.1 | Effector probability: 0.652
+C_percentage = 5.58659217877095%
+>EVM0010216.1 | Effector probability: 0.595
+C_percentage = 1.2658227848101267%
+>EVM0006948.1 | Effector probability: 0.716
+C_percentage = 1.6853932584269662%
+>EVM0008696.1 | Effector probability: 0.611
+C_percentage = 0.9803921568627451%
+>EVM0010113.1 | Effector probability: 0.705
+ 
+>EVM0009454.1 | Effector probability: 0.737
+C_percentage = 0.641025641025641%
+>EVM0000835.1 | Effector probability: 0.604
+ 
+>EVM0005193.1 | Effector probability: 0.969
+C_percentage = 2.0080321285140563%
+>EVM0001199.1 | Effector probability: 0.551
+C_percentage = 1.25%
+>EVM0010173.1 | Effector probability: 0.688
+C_percentage = 1.6901408450704223%
+>EVM0007843.1 | Effector probability: 0.59
+C_percentage = 1.1764705882352942%
+>EVM0006777.1 | Effector probability: 0.584
+C_percentage = 6.956521739130435%
+>EVM0010054.1 | Effector probability: 0.885
+C_percentage = 0.819672131147541%
+>EVM0006530.1 | Effector probability: 0.562
+C_percentage = 2.2222222222222223%
+>EVM0001914.1 | Effector probability: 0.657
+C_percentage = 1.935483870967742%
+>EVM0005646.1 | Effector probability: 0.62
+C_percentage = 8.737864077669903%
+>EVM0000057.1 | Effector probability: 0.65
+C_percentage = 0.966183574879227%
+>EVM0004544.1 | Effector probability: 0.578
+C_percentage = 3.292181069958848%
+>EVM0008910.1 | Effector probability: 0.597
+C_percentage = 3.64963503649635%
+>EVM0008052.1 | Effector probability: 0.701
+C_percentage = 2.5510204081632653%
+>EVM0002289.1 | Effector probability: 0.741
+C_percentage = 4.651162790697675%
+>EVM0008294.1 | Effector probability: 0.607
+C_percentage = 2.93040293040293%
+>EVM0006591.1 | Effector probability: 0.686
+C_percentage = 1.2396694214876034%
+>EVM0000585.1 | Effector probability: 0.747
+C_percentage = 1.694915254237288%
+>EVM0000151.1 | Effector probability: 0.787
+C_percentage = 4.838709677419355%
+>EVM0007060.1 | Effector probability: 0.869
+C_percentage = 5.194805194805195%
+>EVM0004044.1 | Effector probability: 0.848
+C_percentage = 1.694915254237288%
+>EVM0009969.1 | Effector probability: 0.563
+ 
+>EVM0006294.1 | Effector probability: 0.601
+C_percentage = 1.593625498007968%
+>EVM0001337.1 | Effector probability: 0.824
+C_percentage = 2.73972602739726%
+>EVM0002042.1 | Effector probability: 0.698
+ 
+>EVM0008837.1 | Effector probability: 0.715
+ 
+>EVM0004130.1 | Effector probability: 0.91
+C_percentage = 1.3961605584642234%
+>EVM0010046.1 | Effector probability: 0.611
+C_percentage = 3.7037037037037033%
+>EVM0009854.1 | Effector probability: 0.641
+C_percentage = 2.877697841726619%
+>EVM0000778.1 | Effector probability: 0.622
+C_percentage = 0.8163265306122449%
+>EVM0003176.1 | Effector probability: 0.932
+C_percentage = 5.660377358490567%
+>EVM0007917.1 | Effector probability: 0.581
+C_percentage = 1.6025641025641024%
+>EVM0001752.3 | Effector probability: 0.556
+C_percentage = 0.5050505050505051%
+>EVM0010616.1 | Effector probability: 0.735
+C_percentage = 1.7937219730941705%
+>EVM0005285.1 | Effector probability: 0.801
+C_percentage = 5.82010582010582%
+>EVM0005689.1 | Effector probability: 0.756
+C_percentage = 6.918238993710692%
+>EVM0003098.1 | Effector probability: 0.745
+C_percentage = 2.13903743315508%
+>EVM0010468.1 | Effector probability: 0.91
+C_percentage = 4.11522633744856%
+>EVM0007682.1 | Effector probability: 0.891
+C_percentage = 3.870967741935484%
+>EVM0007654.1 | Effector probability: 0.617
+C_percentage = 1.1299435028248588%
+>EVM0000882.1 | Effector probability: 0.815
+C_percentage = 4.845814977973569%
+>EVM0003448.1 | Effector probability: 0.891
+C_percentage = 8.080808080808081%
+>EVM0009592.1 | Effector probability: 0.692
+C_percentage = 2.232142857142857%
+>EVM0003802.1 | Effector probability: 0.873
+C_percentage = 4.9079754601226995%
+>EVM0004286.1 | Effector probability: 0.887
+C_percentage = 9.195402298850574%
+>EVM0003646.1 | Effector probability: 0.602
+C_percentage = 2.42914979757085%
+>EVM0001858.1 | Effector probability: 0.585
+C_percentage = 1.5384615384615385%
+>EVM0000466.1 | Effector probability: 0.786
+C_percentage = 1.7391304347826086%
+>EVM0003393.1 | Effector probability: 0.59
+ 
+>EVM0005506.1 | Effector probability: 0.569
+C_percentage = 0.6015037593984963%
+>EVM0006804.1 | Effector probability: 0.818
+C_percentage = 1.4925373134328357%
+>EVM0003487.1 | Effector probability: 0.654
+ 
+>EVM0007088.1 | Effector probability: 0.813
+C_percentage = 1.5625%
+>EVM0003807.1 | Effector probability: 0.581
+C_percentage = 5.319148936170213%
+>EVM0007328.1 | Effector probability: 0.676
+C_percentage = 3.007518796992481%
+>EVM0000910.1 | Effector probability: 0.564
+C_percentage = 2.8169014084507045%
+>EVM0001154.1 | Effector probability: 0.703
+C_percentage = 2.1505376344086025%
+>EVM0000524.1 | Effector probability: 0.563
+ 
+>EVM0010517.1 | Effector probability: 0.576
+C_percentage = 0.7648183556405354%
+>EVM0010161.1 | Effector probability: 0.647
+C_percentage = 1.2012012012012012%
+>EVM0009525.1 | Effector probability: 0.853
+C_percentage = 5.084745762711865%
+>EVM0003542.1 | Effector probability: 0.886
+C_percentage = 1.9047619047619049%
+>EVM0010304.1 | Effector probability: 0.631
+C_percentage = 4.782608695652174%
+>EVM0008752.1 | Effector probability: 0.827
+C_percentage = 4.2682926829268295%
+>EVM0006668.1 | Effector probability: 0.568
+C_percentage = 1.006711409395973%
+>EVM0006606.1 | Effector probability: 0.58
+C_percentage = 1.9801980198019802%
+>EVM0009070.1 | Effector probability: 0.655
+C_percentage = 3.225806451612903%
+>EVM0007054.1 | Effector probability: 0.595
+ 
+>EVM0007419.1 | Effector probability: 0.667
+C_percentage = 0.23201856148491878%
+>EVM0010421.1 | Effector probability: 0.575
+C_percentage = 3.763440860215054%
